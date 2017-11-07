@@ -1,0 +1,11 @@
+Package: exceptionHandler
+Type: Package
+Title: Handling Exception By Custom Conditions
+Version: 2.0.3
+Date: 2017-05-26
+Authors@R: person('Kornexl', 'Matthias', email = 'mk@iib.at',
+  role = c('aut', 'cre'))
+Description: The package provides functions to handle exception by custom
+    conditions.
+License: MIT + file LICENSE
+RoxygenNote: 6.0.1
